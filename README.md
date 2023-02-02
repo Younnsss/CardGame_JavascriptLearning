@@ -1,6 +1,6 @@
 # Card Game
 
-Ce jeu de cartes a été réalisé dans le cadre du projet : "".
+Ce jeu de cartes a été réalisé dans le cadre du projet : [Plateforme]().
 
 L'objectif de ce projet était de développer une plateforme présentant différents concepts du langage Javascript à des utilisateurs débutants en programmation web. Pour illustrer ces concepts et expliquer comment ils peuvent être mis en pratique, nous avons créé un jeu de cartes. Ce jeu a ensuite été divisé en modules, chaque module présentant une notion différente du langage Javascript pour aider l'utilisateur à comprendre comment ces notions peuvent être appliquées.
 
@@ -17,3 +17,5 @@ Afin de retirer le système de pari d’argent du Blackjack, nous avons mis en p
 À l’issue d’une manche, un joueur perd une vie si son score est inférieur au croupier ou si son score est supérieur à 21. La partie se termine lorsqu’il ne reste qu’un seul joueur en vie, il peut donc ne pas y avoir de gagnant si tous les joueurs perdent en même temps. 
 
 ## Overview
+
+![App Screenshot](./pres.gif)
